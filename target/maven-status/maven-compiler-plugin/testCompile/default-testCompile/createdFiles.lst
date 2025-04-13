@@ -1,0 +1,4 @@
+TestCases\RegisterUser.class
+TestCases\SimpleTest.class
+TestCases\AddToCart.class
+TestCases\LoginUser.class

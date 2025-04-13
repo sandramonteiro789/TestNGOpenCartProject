@@ -1,0 +1,634 @@
+2025-04-01 12:59:59.594 INFO  o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OpenCartTestProject\testng.xml
+
+2025-04-01 13:00:22.478 INFO  o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OpenCartTestProject\testng.xml
+
+2025-04-01 13:00:58.738 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.762 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-01 13:00:58.767 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.769 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.773 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.776 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.777 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.780 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.782 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.783 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.788 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.790 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.792 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.794 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.795 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.799 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.811 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.812 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.813 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.814 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.821 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.822 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.822 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.823 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.831 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-04-01 13:00:58.860 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+2025-04-01 13:00:58.864 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.865 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.867 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:00:58.868 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:00:58.889 INFO  o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--276881523\testng-customsuite.xml
+
+2025-04-01 13:00:58.952 INFO  o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-04-01 13:00:59.452 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@3028e50e: 113 ms
+2025-04-01 13:00:59.455 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@4c9e38: 2 ms
+2025-04-01 13:00:59.465 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@65cc8228: 9 ms
+2025-04-01 13:00:59.475 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@56da52a7: 10 ms
+2025-04-01 13:00:59.484 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@231baf51: 8 ms
+2025-04-01 13:00:59.485 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@11841b15: 0 ms
+2025-04-01 13:01:20.801 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-01 13:01:20.819 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-01 13:01:20.824 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.826 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.828 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.828 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.830 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.830 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.831 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.833 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.843 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.844 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.845 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.848 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.849 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.849 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.861 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.862 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-01 13:01:20.862 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.863 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.870 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.870 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.871 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.871 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.880 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-04-01 13:01:20.903 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+2025-04-01 13:01:20.909 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.909 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.910 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:20.910 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:20.927 INFO  o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--1329923939\testng-customsuite.xml
+
+2025-04-01 13:01:20.987 INFO  o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-04-01 13:01:21.512 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@3028e50e: 118 ms
+2025-04-01 13:01:21.515 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@4c9e38: 3 ms
+2025-04-01 13:01:21.529 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@65cc8228: 12 ms
+2025-04-01 13:01:21.544 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@56da52a7: 15 ms
+2025-04-01 13:01:21.552 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@231baf51: 7 ms
+2025-04-01 13:01:21.553 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@11841b15: 0 ms
+2025-04-01 13:01:37.277 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-01 13:01:37.303 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-01 13:01:37.307 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.309 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.311 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-01 13:01:37.313 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.315 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.318 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.319 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.321 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.325 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.325 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.328 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.332 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.335 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.336 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.355 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.356 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.359 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.360 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.368 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.369 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.370 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.371 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.382 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-04-01 13:01:37.414 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+2025-04-01 13:01:37.420 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.421 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.422 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 13:01:37.423 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 13:01:37.439 INFO  o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--11157951\testng-customsuite.xml
+
+2025-04-01 13:01:37.512 INFO  o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-04-01 13:01:38.047 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@3028e50e: 112 ms
+2025-04-01 13:01:38.050 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@4c9e38: 3 ms
+2025-04-01 13:01:38.061 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@65cc8228: 11 ms
+2025-04-01 13:01:38.078 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@56da52a7: 16 ms
+2025-04-01 13:01:38.086 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@231baf51: 6 ms
+2025-04-01 13:01:38.087 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@11841b15: 0 ms
+[34m2025-04-01 16:28:51,589[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = edge
+[m[34m2025-04-01 16:28:57,306[m [32m[TestNG-test-Test-2] INFO [m [36mBaseClass[m - [32mEdge browser is Initialized
+[m[34m2025-04-01 16:28:57,385[m [32m[TestNG-test-Test-1] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 16:28:59,386[m [32m[TestNG-test-Test-2] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 16:30:11,774[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = edge
+[m[34m2025-04-01 16:30:23,909[m [32m[main] INFO [m [36mBaseClass[m - [32mEdge browser is Initialized
+[m[34m2025-04-01 16:30:23,987[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 16:30:35,464[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 16:31:32,612[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = edge
+[m[34m2025-04-01 16:31:39,497[m [32m[main] INFO [m [36mBaseClass[m - [32mEdge browser is Initialized
+[m[34m2025-04-01 16:31:39,589[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 16:31:48,458[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 16:32:48,259[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = edge
+[m[34m2025-04-01 16:33:02,123[m [32m[main] INFO [m [36mBaseClass[m - [32mEdge browser is Initialized
+[m[34m2025-04-01 16:33:02,412[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 16:33:13,181[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 16:33:44,633[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = edge
+[m[34m2025-04-01 16:33:52,060[m [32m[main] INFO [m [36mBaseClass[m - [32mEdge browser is Initialized
+[m[34m2025-04-01 16:33:52,134[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 16:34:04,295[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 16:56:12,445[m [1;31m[main] ERROR[m [36mSimpleTest[m - [1;31mThis is an ERROR message
+[m[34m2025-04-01 16:56:50,356[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = edge
+[m[34m2025-04-01 16:56:55,494[m [32m[main] INFO [m [36mBaseClass[m - [32mEdge browser is Initialized
+[m[34m2025-04-01 16:56:55,579[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 16:57:03,109[m [32m[main] INFO [m [36mSimpleTest[m - [32mfirst test
+[m[34m2025-04-01 16:57:03,110[m [32m[main] INFO [m [36mSimpleTest[m - [32mThis is an INFO message
+[m[34m2025-04-01 16:57:03,110[m [33m[main] WARN [m [36mSimpleTest[m - [33mThis is a WARN message
+[m[34m2025-04-01 16:57:03,111[m [1;31m[main] ERROR[m [36mSimpleTest[m - [1;31mThis is an ERROR message
+[m[34m2025-04-01 16:57:04,693[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 16:59:04,691[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = edge
+[m[34m2025-04-01 16:59:09,880[m [32m[main] INFO [m [36mBaseClass[m - [32mEdge browser is Initialized
+[m[34m2025-04-01 16:59:09,947[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 16:59:16,942[m [32m[main] INFO [m [36mSimpleTest[m - [32mfirst test
+[m[34m2025-04-01 16:59:16,943[m [32m[main] INFO [m [36mSimpleTest[m - [32mThis is an INFO message
+[m[34m2025-04-01 16:59:16,944[m [33m[main] WARN [m [36mSimpleTest[m - [33mThis is a WARN message
+[m[34m2025-04-01 16:59:16,945[m [1;31m[main] ERROR[m [36mSimpleTest[m - [1;31mThis is an ERROR message
+[m[34m2025-04-01 16:59:17,138[m [32m[main] INFO [m [36mSimpleTest[m - [32msecond test
+[m[34m2025-04-01 16:59:18,562[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 17:01:02,807[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = edge
+[m[34m2025-04-01 17:01:11,027[m [32m[main] INFO [m [36mBaseClass[m - [32mEdge browser is Initialized
+[m[34m2025-04-01 17:01:11,108[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 17:01:18,411[m [32m[main] INFO [m [36mSimpleTest[m - [32mfirst test
+[m[34m2025-04-01 17:01:18,412[m [32m[main] INFO [m [36mSimpleTest[m - [32mThis is an INFO message
+[m[34m2025-04-01 17:01:18,413[m [33m[main] WARN [m [36mSimpleTest[m - [33mThis is a WARN message
+[m[34m2025-04-01 17:01:18,415[m [1;31m[main] ERROR[m [36mSimpleTest[m - [1;31mThis is an ERROR message
+[m[34m2025-04-01 17:01:18,646[m [32m[main] INFO [m [36mSimpleTest[m - [32msecond test
+[m[34m2025-04-01 17:01:20,122[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 17:02:57,205[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = opera
+[m[34m2025-04-01 17:04:00,849[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 17:04:14,707[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 17:04:14,811[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://google.com
+[m[34m2025-04-01 17:04:20,618[m [32m[main] INFO [m [36mSimpleTest[m - [32mfirst test
+[m[34m2025-04-01 17:04:20,619[m [32m[main] INFO [m [36mSimpleTest[m - [32mThis is an INFO message
+[m[34m2025-04-01 17:04:20,619[m [33m[main] WARN [m [36mSimpleTest[m - [33mThis is a WARN message
+[m[34m2025-04-01 17:04:20,619[m [1;31m[main] ERROR[m [36mSimpleTest[m - [1;31mThis is an ERROR message
+[m[34m2025-04-01 17:04:20,763[m [32m[main] INFO [m [36mSimpleTest[m - [32msecond test
+[m[34m2025-04-01 17:04:21,195[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 17:48:47,846[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 17:49:02,523[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 17:49:02,629[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 17:49:08,101[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 17:49:08,995[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 17:50:54,271[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 17:50:57,596[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 17:50:57,705[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 17:51:02,900[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 17:51:03,865[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 17:51:04,345[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 17:53:50,375[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 17:53:53,654[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 17:53:53,758[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 17:53:58,728[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 17:53:59,702[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 19:32:48,278[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 19:32:55,329[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 19:32:55,446[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 19:33:03,270[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 19:33:04,435[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 19:58:29,492[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 19:58:32,992[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 19:58:33,089[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 19:58:38,927[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 19:58:39,798[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 20:00:00,069[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 20:00:03,314[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 20:00:03,426[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 20:00:09,072[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 20:00:10,003[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 20:00:48,253[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 20:00:51,368[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 20:00:51,455[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 20:00:57,511[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 20:00:58,958[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 20:01:00,628[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name
+[m[34m2025-04-01 20:01:00,920[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name
+[m[34m2025-04-01 20:01:01,218[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address
+[m[34m2025-04-01 20:01:01,437[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone
+[m[34m2025-04-01 20:01:01,620[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 20:01:01,841[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 20:01:01,977[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 20:04:00,496[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 20:04:03,760[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 20:04:03,850[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 20:04:09,540[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 20:04:10,452[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 20:04:11,765[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name
+[m[34m2025-04-01 20:04:12,004[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name
+[m[34m2025-04-01 20:04:12,417[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address
+[m[34m2025-04-01 20:04:12,682[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone
+[m[34m2025-04-01 20:04:12,951[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 20:04:13,085[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 20:04:13,238[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 20:04:14,059[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 21:32:56,527[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 21:33:06,623[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 21:33:06,771[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 21:33:11,761[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 21:33:12,713[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 21:33:16,079[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name
+[m[34m2025-04-01 21:33:16,297[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name
+[m[34m2025-04-01 21:33:16,554[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address
+[m[34m2025-04-01 21:33:16,792[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone
+[m[34m2025-04-01 21:33:17,045[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 21:33:17,186[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 21:33:17,374[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 21:33:18,098[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 21:43:07,292[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 21:43:10,681[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 21:43:10,757[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 21:43:17,074[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 21:43:18,004[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 21:43:19,309[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name
+[m[34m2025-04-01 21:43:19,551[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name
+[m[34m2025-04-01 21:43:19,913[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address
+[m[34m2025-04-01 21:43:20,193[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone
+[m[34m2025-04-01 21:43:20,454[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 21:43:20,598[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 21:43:20,787[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 21:43:21,644[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 21:59:14,173[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 21:59:18,372[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 21:59:18,490[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 21:59:26,653[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 21:59:27,822[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 21:59:29,400[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 21:59:29,732[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 21:59:30,029[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userRDzWZ@example.com
+[m[34m2025-04-01 21:59:31,142[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 21:59:31,417[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 21:59:31,678[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 21:59:31,898[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 21:59:33,291[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:07:40,933[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:07:44,493[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:07:44,593[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:07:52,226[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:07:53,311[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:07:54,618[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:07:55,071[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:07:55,324[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userCxHSR@example.com
+[m[34m2025-04-01 22:07:55,882[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:07:56,064[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:07:56,200[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:07:56,364[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:07:57,158[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:10:04,001[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:10:07,116[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:10:07,218[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:10:13,449[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:10:14,521[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:10:16,025[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:10:16,519[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:10:16,778[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userdvbpw@example.com
+[m[34m2025-04-01 22:10:17,280[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:10:17,486[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:10:17,641[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:10:17,804[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:10:18,783[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:32:57,191[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:33:00,636[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:33:00,714[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:33:06,270[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:33:07,237[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:33:08,544[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:33:09,019[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:33:09,265[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userGckbD@example.com
+[m[34m2025-04-01 22:33:09,959[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:33:10,232[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:33:10,394[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:33:10,548[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:33:11,498[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:33:11,780[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:33:12,445[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:34:12,662[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:34:16,890[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:34:16,981[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:34:22,265[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:34:23,315[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:34:24,809[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:34:25,085[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:34:25,394[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userTiZjs@example.com
+[m[34m2025-04-01 22:34:26,176[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:34:26,407[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:34:26,549[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:34:26,749[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:34:27,780[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:34:28,652[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 22:34:28,662[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:36:47,145[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:36:50,439[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:36:50,553[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:36:56,485[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:36:57,594[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:36:58,882[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:36:59,313[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:36:59,612[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userDzQVy@example.com
+[m[34m2025-04-01 22:37:00,223[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:37:00,430[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:37:00,635[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:37:00,816[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:37:01,628[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:37:02,249[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 22:37:02,258[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:40:36,259[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:40:40,105[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:40:40,203[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:40:46,148[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:40:47,283[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:40:48,855[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:40:49,215[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:40:49,504[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userSBOEn@example.com
+[m[34m2025-04-01 22:40:50,081[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:40:50,279[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:40:50,420[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:40:50,578[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:40:51,435[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:40:52,234[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 22:43:06,689[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:43:09,821[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:43:09,930[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:43:15,341[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:43:16,284[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:43:17,593[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:43:17,813[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:43:18,115[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userNYDhU@example.com
+[m[34m2025-04-01 22:43:18,854[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:43:19,107[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:43:19,320[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:43:19,477[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:43:20,252[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:43:20,941[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 22:43:20,950[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:46:01,345[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:46:04,664[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:46:04,766[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:46:11,723[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:46:12,841[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:46:14,364[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:46:14,716[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:46:14,920[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userTsPOH@example.com
+[m[34m2025-04-01 22:46:15,535[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:46:15,712[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:46:15,827[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:46:15,977[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:46:16,839[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:46:19,045[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 22:46:19,057[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:55:15,461[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:55:15,626[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-01 22:55:19,409[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:55:19,500[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:55:25,290[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:55:26,219[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-01 22:55:27,668[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-01 22:55:28,100[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-01 22:55:28,335[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : useriKNJk@example.com
+[m[34m2025-04-01 22:55:29,021[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-01 22:55:29,211[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:55:29,339[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-01 22:55:29,505[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-01 22:55:30,412[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-01 22:55:30,984[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-01 22:55:33,131[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-01 22:55:33,162[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-01 22:55:39,627[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-01 22:55:40,157[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-01 22:55:40,504[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : useriKNJk@example.com
+[m[34m2025-04-01 22:55:40,703[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-01 22:55:40,829[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-01 22:55:41,221[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-03 22:58:55,521[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-03 22:58:55,772[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-03 22:59:00,152[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-03 22:59:00,237[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-03 22:59:06,496[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-03 22:59:07,392[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-03 22:59:08,658[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-03 22:59:08,967[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-03 22:59:09,284[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userUfiwq@example.com
+[m[34m2025-04-03 22:59:09,991[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-03 22:59:10,170[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-03 22:59:10,315[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-03 22:59:10,492[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-03 22:59:11,444[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-03 22:59:12,139[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-03 22:59:13,904[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-03 22:59:13,918[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-03 22:59:20,286[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-03 22:59:20,885[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-03 22:59:21,196[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : userUfiwq@example.com
+[m[34m2025-04-03 22:59:21,364[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-03 22:59:22,219[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-03 22:59:22,823[m [32m[main] INFO [m [36mBaseClass[m - [32mWebdriver is Terminated
+[m[34m2025-04-03 22:59:56,541[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-03 22:59:56,652[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-03 23:00:00,769[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-03 23:00:00,875[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-03 23:00:06,815[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-03 23:00:07,668[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-03 23:00:09,021[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-03 23:00:09,248[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-03 23:00:09,414[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userTwPEc@example.com
+[m[34m2025-04-03 23:00:09,977[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-03 23:00:10,302[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-03 23:00:10,552[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-03 23:00:10,714[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-03 23:00:11,750[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-03 23:00:14,198[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-03 23:00:14,211[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-03 23:00:21,497[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-03 23:00:24,854[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-03 23:00:25,124[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : userTwPEc@example.com
+[m[34m2025-04-03 23:00:25,339[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-03 23:00:25,463[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-03 23:09:14,817[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-03 23:09:14,944[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-03 23:09:17,998[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-03 23:09:18,082[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-03 23:09:23,929[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-03 23:09:24,922[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-03 23:09:26,193[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-03 23:09:26,553[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-03 23:09:26,768[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userNxitw@example.com
+[m[34m2025-04-03 23:09:27,344[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-03 23:09:27,577[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-03 23:09:27,733[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-03 23:09:27,876[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-03 23:09:28,835[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-03 23:10:24,008[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-03 23:10:24,145[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-03 23:10:27,151[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-03 23:10:27,241[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-03 23:10:31,906[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-03 23:10:32,867[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-03 23:10:34,069[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-03 23:10:34,288[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-03 23:10:34,585[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userwLxFb@example.com
+[m[34m2025-04-03 23:10:35,333[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-03 23:10:35,527[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-03 23:10:35,653[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-03 23:10:35,804[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-03 23:10:36,881[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-03 23:10:39,232[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-03 23:10:39,245[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-03 23:10:46,322[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-03 23:10:47,001[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-03 23:10:47,441[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : userwLxFb@example.com
+[m[34m2025-04-03 23:10:47,624[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-03 23:10:48,352[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-03 23:10:48,412[m [32m[main] INFO [m [36mLoginUser[m - [32mUser is Logged in!!!
+[m[34m2025-04-04 00:48:30,901[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:48:31,022[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:48:35,791[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:48:35,915[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:48:40,941[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:48:41,901[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-04 00:48:43,163[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-04 00:48:43,410[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-04 00:48:43,604[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userAVyEm@example.com
+[m[34m2025-04-04 00:48:46,058[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:48:46,074[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:48:51,693[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:48:52,272[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-04 00:48:52,631[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : userwLxFb@example.com
+[m[34m2025-04-04 00:48:52,904[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-04 00:48:54,023[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-04 00:48:54,087[m [32m[main] INFO [m [36mLoginUser[m - [32mUser is Logged in!!!
+[m[34m2025-04-04 00:49:36,167[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:49:36,289[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:49:39,338[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:49:39,498[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:49:43,064[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:49:43,989[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-04 00:49:45,243[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-04 00:49:45,470[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-04 00:49:45,598[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : uservlNAa@example.com
+[m[34m2025-04-04 00:49:46,389[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-04 00:49:46,628[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-04 00:49:46,769[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-04 00:49:46,919[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-04 00:49:47,845[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-04 00:49:50,363[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:49:50,379[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:49:57,037[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:49:57,874[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-04 00:49:58,337[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : uservlNAa@example.com
+[m[34m2025-04-04 00:49:58,551[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-04 00:49:59,416[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-04 00:49:59,533[m [32m[main] INFO [m [36mLoginUser[m - [32mUser is Logged in!!!
+[m[34m2025-04-04 00:52:58,448[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:52:58,602[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:53:01,552[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:53:01,652[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:53:05,502[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:53:06,491[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-04 00:53:07,835[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-04 00:53:08,062[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-04 00:53:08,250[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : uservUBfj@example.com
+[m[34m2025-04-04 00:53:09,021[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-04 00:53:09,302[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-04 00:53:09,493[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-04 00:53:09,677[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-04 00:53:10,613[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-04 00:53:12,800[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:53:12,812[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:53:19,308[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:53:20,009[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-04 00:53:20,427[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : uservUBfj@example.com
+[m[34m2025-04-04 00:53:20,645[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-04 00:53:21,663[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-04 00:53:21,739[m [32m[main] INFO [m [36mLoginUser[m - [32mUser is Logged in!!!
+[m[34m2025-04-04 00:53:21,752[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:53:22,157[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:53:22,158[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:53:22,640[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:54:17,301[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:54:17,414[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:54:17,424[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:54:20,351[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:54:20,484[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:54:25,832[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:54:26,815[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-04 00:54:28,081[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-04 00:54:28,413[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-04 00:54:28,642[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : usertMkCB@example.com
+[m[34m2025-04-04 00:54:29,298[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-04 00:54:29,537[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-04 00:54:29,669[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-04 00:54:29,813[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-04 00:54:30,647[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-04 00:54:32,968[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:54:32,981[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:54:39,205[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:54:39,973[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-04 00:54:40,671[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : usertMkCB@example.com
+[m[34m2025-04-04 00:54:40,906[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-04 00:54:41,817[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-04 00:54:41,856[m [32m[main] INFO [m [36mLoginUser[m - [32mUser is Logged in!!!
+[m[34m2025-04-04 00:54:43,844[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 00:54:43,856[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:54:48,968[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 00:54:48,969[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 00:54:49,648[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 00:54:50,237[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-04 00:54:50,640[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : usertMkCB@example.com
+[m[34m2025-04-04 00:54:50,829[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-04 00:54:51,770[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-04 00:54:51,865[m [32m[main] INFO [m [36mLoginUser[m - [32mUser is Logged in!!!
+[m[34m2025-04-04 01:05:03,257[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 01:05:03,361[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 01:05:03,370[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 01:05:06,555[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 01:05:06,696[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 01:05:10,930[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 01:05:11,854[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Register Button
+[m[34m2025-04-04 01:05:13,171[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters First Name as : Test
+[m[34m2025-04-04 01:05:13,498[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Last Name as : User
+[m[34m2025-04-04 01:05:13,780[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Email address as : userTRiXK@example.com
+[m[34m2025-04-04 01:05:14,460[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Telephone as : 9876543210
+[m[34m2025-04-04 01:05:14,652[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password
+[m[34m2025-04-04 01:05:14,797[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser enters Password again
+[m[34m2025-04-04 01:05:14,945[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Agree check Box
+[m[34m2025-04-04 01:05:15,793[m [32m[main] INFO [m [36mRegisterUser[m - [32mUser clicks on Continue Button
+[m[34m2025-04-04 01:05:18,217[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 01:05:18,230[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 01:05:23,809[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 01:05:24,564[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-04 01:05:24,922[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : userTRiXK@example.com
+[m[34m2025-04-04 01:05:25,158[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-04 01:05:25,335[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-04 01:05:25,989[m [32m[main] INFO [m [36mLoginUser[m - [32mUser is Logged in!!!
+[m[34m2025-04-04 01:05:28,246[m [32m[main] INFO [m [36mBaseClass[m - [32mChrome browser is Initialized
+[m[34m2025-04-04 01:05:28,260[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 01:05:34,214[m [32m[main] INFO [m [36mConfigReader[m - [32mBrowser = chrome
+[m[34m2025-04-04 01:05:34,215[m [32m[main] INFO [m [36mConfigReader[m - [32mURL = https://naveenautomationlabs.com/opencart/
+[m[34m2025-04-04 01:05:34,765[m [32m[main] INFO [m [36mLoginUser[m - [32mUser navigates to My Account
+[m[34m2025-04-04 01:05:35,469[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Menu
+[m[34m2025-04-04 01:05:36,068[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Email address as : userTRiXK@example.com
+[m[34m2025-04-04 01:05:36,365[m [32m[main] INFO [m [36mLoginUser[m - [32mUser enters Password
+[m[34m2025-04-04 01:05:37,434[m [32m[main] INFO [m [36mLoginUser[m - [32mUser clicks on Login Button
+[m[34m2025-04-04 01:05:37,487[m [32m[main] INFO [m [36mLoginUser[m - [32mUser is Logged in!!!
+[m[34m2025-04-04 01:05:37,758[m [32m[main] INFO [m [36mAddToCart[m - [32mUser enter the item to search
+[m[34m2025-04-04 01:05:37,760[m [32m[main] INFO [m [36mAddToCart[m - [32mUser searched for : Macbook
+[m[34m2025-04-04 01:05:38,854[m [32m[main] INFO [m [36mAddToCart[m - [32mUser clicks on search button
+[m[34m2025-04-04 01:05:40,183[m [32m[main] INFO [m [36mAddToCart[m - [32mUser selects Macbook from search results
+[m[34m2025-04-04 01:05:40,550[m [32m[main] INFO [m [36mAddToCart[m - [32mUser Adds Macbook to cart
+[m[34m2025-04-04 01:05:41,402[m [32m[main] INFO [m [36mAddToCart[m - [32mUser goes to cart
+[m

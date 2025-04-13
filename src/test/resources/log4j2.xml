@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Appenders>
+		<Console name="CONSOLE" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%style{%d}{blue} %highlight{[%t] %-5p} %style{%c{1}}{cyan} - %highlight{%m%n}" />
+		</Console>
+		<File name="file" fileName="logs/selenium.log" append="true">
+			<PatternLayout
+				pattern="%style{%d}{blue} %highlight{[%t] %-5p} %style{%c{1}}{cyan} - %highlight{%m%n}" />
+		</File>
+	</Appenders>
+	<Loggers>
+		<Root level="INFO">
+			<AppenderRef ref="CONSOLE" />
+			<AppenderRef ref="file" />
+		</Root>
+	</Loggers>
+</Configuration>

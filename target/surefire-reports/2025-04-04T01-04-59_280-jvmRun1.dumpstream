@@ -1,0 +1,15 @@
+# Created at 2025-04-04T01:05:43.972
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Generating report to temp directory...'.
+
+# Created at 2025-04-04T01:05:47.731
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Report successfully generated to C:\Users\user\AppData\Local\Temp\5894738109376809110\allure-report'.
+
+# Created at 2025-04-04T01:05:47.732
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Starting web server...'.
+
+# Created at 2025-04-04T01:05:48.217
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server started at <http://127.0.0.1:'.
+
+# Created at 2025-04-04T01:05:48.275
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59016>. Press <Ctrl+C> to exit'.
+

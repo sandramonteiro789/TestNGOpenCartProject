@@ -1,0 +1,116 @@
+2025-04-01 12:50:56.462 DEBUG o.t.TestNG [main] suiteXmlPath: "C:\Users\user\eclipse-workspace\OpenCartTestProject\testng.xml"
+2025-04-01 12:50:57.490 TRACE o.t.i.Graph [main] [Graph] ADDING NODE SimpleTest.secondTest()[pri:0, instance:TestCases.SimpleTest@6058e535] 770051855
+2025-04-01 12:50:57.492 TRACE o.t.i.Graph [main] [Graph] ADDING NODE SimpleTest.firstTest()[pri:0, instance:TestCases.SimpleTest@6058e535] -872016173
+2025-04-01 12:50:57.497 TRACE o.t.i.Graph [main] [Graph] ================ SORTING
+2025-04-01 12:50:57.512 TRACE o.t.i.Graph [main] [Graph] =============== DONE SORTING
+2025-04-01 12:50:57.513 TRACE o.t.i.Graph [main] [Graph] ====== SORTED NODES
+2025-04-01 12:50:57.513 TRACE o.t.i.Graph [main] [Graph] ====== END SORTED NODES
+2025-04-01 12:50:57.575 INFO  o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OpenCartTestProject\testng.xml
+
+2025-04-01 12:50:57.816 INFO  T.SimpleTest [TestNG-test-Test-2] second test
+2025-04-01 12:50:57.816 INFO  T.SimpleTest [TestNG-test-Test-1] first test
+2025-04-01 12:50:57.845 TRACE T.SimpleTest [TestNG-test-Test-1] This is a TRACE message
+2025-04-01 12:50:57.847 DEBUG T.SimpleTest [TestNG-test-Test-1] This is a DEBUG message
+2025-04-01 12:50:57.850 INFO  T.SimpleTest [TestNG-test-Test-1] This is an INFO message
+2025-04-01 12:50:57.851 WARN  T.SimpleTest [TestNG-test-Test-1] This is a WARN message
+2025-04-01 12:50:57.852 ERROR T.SimpleTest [TestNG-test-Test-1] This is an ERROR message
+2025-04-01 12:52:17.348 DEBUG o.t.TestNG [main] suiteXmlPath: "C:\Users\user\AppData\Local\Temp\testng-eclipse--737564398\testng-customsuite.xml"
+2025-04-01 12:52:18.163 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.169 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-04-01 12:52:18.172 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.173 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.173 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.174 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.175 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.175 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.177 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.178 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.182 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.184 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.186 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.190 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.191 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.192 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.200 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.201 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.201 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.202 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.209 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.210 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.210 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.211 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.225 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-04-01 12:52:18.232 TRACE o.t.i.Graph [main] [Graph] ADDING NODE SimpleTest.secondTest()[pri:2, instance:TestCases.SimpleTest@6058e535] 770051855
+2025-04-01 12:52:18.236 TRACE o.t.i.Graph [main] [Graph] ADDING NODE SimpleTest.firstTest()[pri:1, instance:TestCases.SimpleTest@6058e535] -872016173
+2025-04-01 12:52:18.239 TRACE o.t.i.Graph [main] [Graph] ================ SORTING
+2025-04-01 12:52:18.256 TRACE o.t.i.Graph [main] [Graph] =============== DONE SORTING
+2025-04-01 12:52:18.257 TRACE o.t.i.Graph [main] [Graph] ====== SORTED NODES
+2025-04-01 12:52:18.257 TRACE o.t.i.Graph [main] [Graph] ====== END SORTED NODES
+2025-04-01 12:52:18.258 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+2025-04-01 12:52:18.262 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.263 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.263 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:18.264 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:18.282 INFO  o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--737564398\testng-customsuite.xml
+
+2025-04-01 12:52:18.327 INFO  o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-04-01 12:52:18.483 INFO  T.SimpleTest [main] first test
+2025-04-01 12:52:18.484 TRACE T.SimpleTest [main] This is a TRACE message
+2025-04-01 12:52:18.486 DEBUG T.SimpleTest [main] This is a DEBUG message
+2025-04-01 12:52:18.487 INFO  T.SimpleTest [main] This is an INFO message
+2025-04-01 12:52:18.487 WARN  T.SimpleTest [main] This is a WARN message
+2025-04-01 12:52:18.488 ERROR T.SimpleTest [main] This is an ERROR message
+2025-04-01 12:52:18.652 INFO  T.SimpleTest [main] second test
+2025-04-01 12:52:18.841 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@4fcc0416: 113 ms
+2025-04-01 12:52:18.845 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@551de37d: 3 ms
+2025-04-01 12:52:18.857 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@4c9e38: 10 ms
+2025-04-01 12:52:18.874 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@57b9e423: 16 ms
+2025-04-01 12:52:18.883 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2eb79cbe: 9 ms
+2025-04-01 12:52:18.883 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@2ca6546f: 0 ms
+2025-04-01 12:52:42.630 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-01 12:52:42.657 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-01 12:52:42.661 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.664 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.665 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.666 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.666 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.667 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.667 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.669 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.670 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.671 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.672 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.674 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.675 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.676 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.690 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.693 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.696 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.696 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.705 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.707 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.708 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.710 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.719 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-04-01 12:52:42.758 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
+2025-04-01 12:52:42.765 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.767 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.768 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 12:52:42.769 INFO  o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 12:52:42.792 INFO  o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-1625040680\testng-customsuite.xml
+
+2025-04-01 12:52:42.880 INFO  o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-04-01 12:52:43.055 INFO  T.SimpleTest [main] first test
+2025-04-01 12:52:43.056 INFO  T.SimpleTest [main] This is an INFO message
+2025-04-01 12:52:43.056 WARN  T.SimpleTest [main] This is a WARN message
+2025-04-01 12:52:43.056 ERROR T.SimpleTest [main] This is an ERROR message
+2025-04-01 12:52:43.235 INFO  T.SimpleTest [main] second test
+2025-04-01 12:52:43.521 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@4fcc0416: 163 ms
+2025-04-01 12:52:43.526 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@551de37d: 3 ms
+2025-04-01 12:52:43.542 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@4c9e38: 14 ms
+2025-04-01 12:52:43.552 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@57b9e423: 9 ms
+2025-04-01 12:52:43.560 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2eb79cbe: 8 ms
+2025-04-01 12:52:43.561 INFO  o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@2ca6546f: 0 ms
